@@ -41,11 +41,11 @@ Moreover, this is a little *side-project* for me as I am currently working on an
         *  `ranking-rec-e01.u0.np.community.playstation.net`
         *  `static-resource.np.community.playstation.net`
           
-   *  Dead Or Alive 5 Plus
+   *  Dead Or Alive 5 Plus or more information about the full log traffic of this capture please review the spreadsheet [here](https://github.com/NagatoDEV/PlayStation-Vita-Packet-Captures/blob/main/Dead%20Or%20Alive%205%20Plus/Dead_Or_Alive__5_Plus_Capture_Logs.csv).
    
       * `static-resource.np.community.playstation.net`
    
-   *  Killzone Mercenary
+   *  Killzone Mercenary for more information about the full log traffic of this capture please review the spreadsheet [here](https://github.com/NagatoDEV/PlayStation-Vita-Packet-Captures/blob/bc6ced1b940d5e93f5a80375667a16aeac080fa6/Killzone%20Mercenary/Killzone_Mercenary_Capture_Logs.csv).
    
       *  `a1.ww.np.dl.playstation.net`
       *  `getprof.de.np.community.playstation.net`
@@ -67,7 +67,7 @@ Moreover, this is a little *side-project* for me as I am currently working on an
         *  `searchjid.eu.np.community.playstation.net`
         *  `static-resource.np.community.playstation.net`
         
-   *  Need for Speed: Most Wanted for more information about the full log traffic of this capture please review the spreadsheet [here]().
+   *  Need for Speed: Most Wanted for more information about the full log traffic of this capture please review the spreadsheet [here](https://github.com/NagatoDEV/PlayStation-Vita-Packet-Captures/blob/main/Need%20For%20Speed%20Most%20Wanted/Need_For_Speed_Most_Wanted_Capture_Logs.csv).
 
         *  `109.200.221.180:17502`
         *  `159.153.79.135:17502`
