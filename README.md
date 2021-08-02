@@ -2,7 +2,7 @@
 
 ![2021-08-02-085545](https://user-images.githubusercontent.com/67494727/127869135-2891abbd-0ff8-47fb-9b6c-1213cc9e8e1f.png)
 
-As the fabled [PlayStation Vita](https://blog.playstation.com/archive/2011/10/19/playstation-vita-launches-from-22-february-2012/) is now **10 years old** (as I'm currently writing this in 2021), and many of its [services/features](https://www.playstation.com/en-us/support/important-notice/) are now defunct/inoperable I decided to record information about the Vita's network functions. As an avid [preservationist](https://www.youtube.com/watch?v=BppPWh49ROU) and a fanboy to the PlayStation Vita, I decided to analyze multiple Vita titles & network servers in hopes for a server emulation solution in the future. The main purpose of this archive is to **preserve/document** the history of the Vita as this console is obscure in many aspects. This archive will contain various packet captures for many PlayStation Vita titles that support online multiplayer capabilities. 
+As the fabled [PlayStation Vita](https://blog.playstation.com/archive/2011/10/19/playstation-vita-launches-from-22-february-2012/) is now **10 years old** (as I'm currently writing this in 2021), and many of its [services/features](https://www.playstation.com/en-us/support/important-notice/) are now defunct/inoperable, I decided to record information about the internal Vita's network functions. As an avid [preservationist](https://www.youtube.com/watch?v=BppPWh49ROU) and a fanboy to the PlayStation Vita, I decided to analyze multiple Vita titles & network servers in hopes for a server emulation solution in the future. The main purpose of this archive is to **preserve/document** the history of the Vita as this console is obscure in many aspects. This archive will contain various packet captures for many PlayStation Vita titles that support online multiplayer capabilities. 
 
 Moreover, this is a little *side-project* for me as I am currently working on another preservation project called [Destination Home](https://github.com/DestinationHome) which is currently restoring [PlayStation Home's online client](https://youtu.be/D7LQP5SDUjU). 
 
@@ -24,7 +24,7 @@ Moreover, this is a little *side-project* for me as I am currently working on an
     
     * [PlayStation™Store (Vita Store)](https://store.playstation.com/en-us/) click [here](https://github.com/NagatoDEV/PlayStation-Vita-Packet-Captures/releases/tag/v1.0) to view captures.
 
-* All of the following packet capture test that have been added to this archive, I have use the following hardware/software, respectively. 
+* All of the following packet capture tests that have been added to this archive, I have used the following hardware/software, respectively. 
 
    * PlayStation Vita PCH2000 NTSC-J flashed to 3.60 [Henkaku Enso firmware](https://github.com/henkaku/enso).
    * PlayStation TV VTE1001 flashed to 3.60 [Henkaku Enso firmware](https://github.com/henkaku/enso).
@@ -48,9 +48,9 @@ Moreover, this is a little *side-project* for me as I am currently working on an
    *  Killzone Mercenary
    
       *  `a1.ww.np.dl.playstation.net`
-      *  getprof.de.np.community.playstation.net`
-      *  getprof.gb.np.community.playstation.net`
-      *  getprof.us.np.community.playstation.net`
+      *  `getprof.de.np.community.playstation.net`
+      *  `getprof.gb.np.community.playstation.net`
+      *  `getprof.us.np.community.playstation.net`
       *  `livearea.np.dl.playstation.net`
       *  `static-resource.np.community.playstation.net`
    
