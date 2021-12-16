@@ -16,6 +16,10 @@ Moreover, this is a little *side-project* for me as I am currently working on an
     
     * [Dead Or Alive 5 Plus](https://www.ign.com/articles/2012/12/13/dead-or-alive-plus-hits-vita-in-march) click [here](https://github.com/NagatoDEV/PlayStation-Vita-Packet-Captures/tree/main/Dead%20Or%20Alive%205%20Plus) to view captures.
     
+    * [Dungeon Hunter: Alliance](https://www.mobygames.com/game/dungeon-hunter-alliance) click [here](https://github.com/NagatoDEV/PlayStation-Vita-Packet-Captures/tree/main/Dungeon%20Hunter%20Alliance) to view captures.
+    
+    * [Freedom Wars](https://www.jp.playstation.com/scej/title/freedomwars/) click [here](https://github.com/NagatoDEV/PlayStation-Vita-Packet-Captures/releases/tag/v1.1) to view captures.
+    
     * [Killzone Mercenary](https://mercenary.killzone.com/) click [here](https://github.com/NagatoDEV/PlayStation-Vita-Packet-Captures/tree/main/Killzone%20Mercenary) to view captures.
     
     * [LittleBigPlanet™ PS Vita](http://littlebigplanet.playstation.com/en/games/littlebigplanet-psvita?t=US) click [here](https://github.com/NagatoDEV/PlayStation-Vita-Packet-Captures/tree/main/LittleBigPlanet%E2%84%A2) to view captures.
@@ -23,6 +27,8 @@ Moreover, this is a little *side-project* for me as I am currently working on an
     * [Need for Speed: Most Wanted](https://www.ea.com/games/need-for-speed/need-for-speed-most-wanted) click [here](https://github.com/NagatoDEV/PlayStation-Vita-Packet-Captures/tree/main/Need%20For%20Speed%20Most%20Wanted) to view captures.
     
     * [PlayStation™Store (Vita Store)](https://store.playstation.com/en-us/) click [here](https://github.com/NagatoDEV/PlayStation-Vita-Packet-Captures/releases/tag/v1.0) to view captures.
+    
+    * Miscellaneous packets from PSN & other online titles can be found [here](https://github.com/NagatoDEV/PlayStation-Vita-Packet-Captures/tree/main/Miscellaneous).
 
 * All of the following packet capture tests that have been added to this archive, I have used the following hardware/software, respectively. 
 
