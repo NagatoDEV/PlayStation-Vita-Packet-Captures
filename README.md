@@ -4,6 +4,8 @@
 
 As the fabled [PlayStation Vita](https://blog.playstation.com/archive/2011/10/19/playstation-vita-launches-from-22-february-2012/) is now **10 years old** (as I'm currently writing this in 2021), and many of its [services/features](https://www.playstation.com/en-us/support/important-notice/) are now defunct/inoperable, I decided to record information about the internal Vita's network functions. As an avid [preservationist](https://www.youtube.com/watch?v=BppPWh49ROU) and a fanboy to the PlayStation Vita, I decided to analyze multiple Vita titles & network servers in hopes for a server emulation solution in the future. The main purpose of this archive is to **preserve/document** the history of the Vita as this console is obscure in many aspects. This archive will contain various packet captures for many PlayStation Vita titles that support online multiplayer capabilities. 
 
+Special thanks to Taffer for donating some captures to this archive!
+
 Moreover, this is a little *side-project* for me as I am currently working on another preservation project called [Destination Home](https://github.com/DestinationHome) which is currently restoring [PlayStation Home's online client](https://youtu.be/D7LQP5SDUjU). 
 
 **Disclaimer:** This repo is only for educational/preservational purposes. 
