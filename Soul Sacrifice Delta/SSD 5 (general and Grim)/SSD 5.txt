@@ -1,0 +1,19 @@
+- Start capture
+- Open SSD on the livearea
+- start the game
+- load the save 2 (Noémie)
+- register factions points (5)
+- declaring them (5 - Grim - 25th rank)
+- check the faction state (1st panel)
+- check all factions state (2nd panel)
+- check previous results (3rd panel)
+- check the faction report again for update of points declared (not counted on the server)
+- wait 5 minutes
+- check the faction report again for update of points declared (counted - 5 points for Grim - 25th rank)
+- save the game
+- Exit the game
+- Erase the livearea screen of SSD
+- Stop capture
+
+
+File : SSD 5
