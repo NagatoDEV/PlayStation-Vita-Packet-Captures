@@ -28,7 +28,7 @@ Moreover, this is a little *side-project* for me as I am currently working on an
 
 * As of `June 4, 2022`, here are the following titles/services that I have currently captured as of last year. 
 
-* [Soul Sacrifice Delta](https://www.jp.playstation.com/scej/title/soulsacrifice/en/) click [here](https://github.com/NagatoDEV/PlayStation-Vita-Packet-Captures/tree/main/Soul%20Sacrifice%20Delta) to view captures. 
+    * [Soul Sacrifice Delta](https://www.jp.playstation.com/scej/title/soulsacrifice/en/) click [here](https://github.com/NagatoDEV/PlayStation-Vita-Packet-Captures/tree/main/Soul%20Sacrifice%20Delta) to view captures. 
 
 * As of `August 2, 2021`, here are the following titles/services that I have currently captured as of last year. 
     
