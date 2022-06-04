@@ -1,0 +1,28 @@
+THIS CAPTURE IS NOT RELATED TO THE SSD 4 CAPTURE, THE FIRST CAPTURE ATTEMPT FAILED
+
+- Start capture
+- Open SSD on the livearea
+- start the game
+- load the save 2
+- start a quest to farm points
+- connect to the serv without declaring points (mistake from me)
+- register factions points (5)
+- declaring them (5 - Sanctuarium)
+- check the faction state (1st panel)
+- check all factions state (2nd panel)
+- check previous results (3rd panel)
+- check the faction report again for update of points declared (not counted)
+- wait 5 minutes
+- check the faction report again for update of points declared (not counted)
+- wait 5 minutes
+- check the faction report again for update of points declared (not counted)
+- wait 5 minutes
+- get the vita off sleep mode
+- check the faction report again for update of points declared (counted : 5 points for Sanctuarium - Noémie 35th rank at this moment)
+- save the game
+- Exit the game
+- Erase the livearea screen of SSD
+- Stop capture
+
+
+File : SSD 3
