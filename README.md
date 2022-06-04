@@ -12,6 +12,10 @@ Moreover, this is a little *side-project* for me as I am currently working on an
 
 # Games / Services:
 
+* As of `June 4, 2022`, here are the following titles/services that I have currently captured as of last year. 
+
+* [Soul Sacrifice Delta](https://www.jp.playstation.com/scej/title/soulsacrifice/en/) click [here](https://github.com/NagatoDEV/PlayStation-Vita-Packet-Captures/tree/main/Soul%20Sacrifice%20Delta) to view captures. 
+
 * As of `August 2, 2021`, here are the following titles/services that I have currently captured as of last year. 
     
     * [Call of Duty Black Ops Declassified](https://www.activision.com/games/call-of-duty/call-of-duty-black-ops-declassified) click [here](https://github.com/NagatoDEV/PlayStation-Vita-Packet-Captures/tree/main/Call%20of%20Duty%20Black%20Ops%20Declassified) to view captures. 
@@ -96,5 +100,16 @@ Moreover, this is a little *side-project* for me as I am currently working on an
 
 # Want to contribute to this archive? Feel free to contact me:
 
-* My Twitter: [NagatoRevenge](https://twitter.com/NagatoRevenge)
-* My Youtube Channel: [Nagato's Revenge](https://www.youtube.com/channel/UCXgz1g5ET8Un9gax-nGMjMw)
+<p align="center">
+<a href="https://discord.com/invite/nhH6vpX">
+  <img align="center" alt="TEAM Nagato width=" width="100px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+</a>
+<a href="https://twitter.com/NagatoRevenge">
+  <img align="center" alt="NagatoRevenge | Twitter" width="100px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+<a href="https://www.reddit.com/user/Nagato-DEV/">
+  <img align="center" alt="NagatoDev | Reddit" width="100px" src="https://seeklogo.com/images/R/reddit-logo-23F13F6A6A-seeklogo.com.png" />
+</a>
+<a href="https://www.youtube.com/channel/UCXgz1g5ET8Un9gax-nGMjMw">
+  <img align="center" alt="NagatoDev | YouTube" width="100px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
+</a>
