@@ -1,0 +1,24 @@
+- Start capture
+- Open SSD on the livearea
+- start the game
+- load the save 1
+- connect to the online
+- Create a room (screeshot)
+- swap quest to the XIII - 8 the first on the second page)
+- Inifel joined
+- Inifel talked (C brook)
+- Kuroalpaca joined
+- @moukosaden2014 joined
+- start the quest
+- quest finished (Paka killed, Inifel killed, Kuroalpaca killed, Mouko killed - score :390)
+- switch on the alice maze (two S malus rumors to ALice)
+- start alice maze
+- alice maze finished (5 Cycles terminated, maze exited) - socre and all that shit : screenshot
+- exit the room
+- save the game
+- Exit the game
+- Erase the livearea screen of SSD
+- Stop capture
+
+
+File : SSD 7
