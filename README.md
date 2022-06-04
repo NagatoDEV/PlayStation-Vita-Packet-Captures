@@ -22,7 +22,7 @@ Special thanks to **Taffer** & **Nm223** for donating some captures to this arch
 
 Moreover, this is a little *side-project* for me as I am currently working on another preservation project called [Destination Home](https://github.com/DestinationHome) which is currently restoring [PlayStation Home's online client](https://youtu.be/D7LQP5SDUjU). 
 
-**Disclaimer:** This repo is only for educational/preservational purposes. 
+**Disclaimer:** This repo is only for **educational/preservational** purposes. 
 
 # Games / Services:
 
