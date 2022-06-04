@@ -1,0 +1,29 @@
+- Start capture
+- Open SSD on the livearea
+- search game updates on the livearea screen
+- start the game
+- hit the download button on the title screen
+- load the save 1
+- register factions points (10)
+- declaring them (65 - avalon)
+- check the faction state (1st panel)
+- check all factions state (2nd panel)  -> CHECK IMAGE FILE IN THE FOLDER
+- check previous results (3rd panel)
+- check the faction report again for update of points declared (not counted on the server)
+- search rumors with aurex
+- give offering to cassus (fail)
+- connnect the online mode
+- create a room online
+- send invite to join the game (balloune77)
+- Exit the room
+- save the game
+- check the faction report again for update of points declared (not counted on the server)
+- waiting 10 minutes
+- check the faction report again for update of points declared (counted - 65 points for avalon)
+- save the game
+- Exit the game
+- Erase the livearea screen of SSD
+- Stop capture
+
+
+File : SSD 1
