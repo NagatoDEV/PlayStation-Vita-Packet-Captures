@@ -1,0 +1,13 @@
+- Start capture
+- Open SSD on the livearea
+- start the game
+- load the save 2
+- check the faction report
+- Get the weekly reward by panel 3 (grim : 1048430 points - 2nd place - noémie : 5 Points - 32th rank)
+- save the game
+- Exit the game
+- Erase the livearea screen of SSD
+- Stop capture
+
+
+File : SSD 6
