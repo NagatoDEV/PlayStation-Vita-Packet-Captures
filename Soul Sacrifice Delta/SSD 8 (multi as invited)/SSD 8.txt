@@ -1,0 +1,21 @@
+- Start capture
+- Open SSD on the livearea
+- start the game
+- load the save 1
+- connect to the online
+- Search a room
+- join Inifel's room (Monarch is already here)
+- start the quest XIII - 8 (Second page, first quest)
+- quest finished (Paka killed, Inifel killed, Monarch destiny - score :370) - (screenshot again)
+- switch on the alice maze
+- Vanellope joined
+- start alice maze
+- alice maze finished (6 Cycles done, maze exited) score : 2570 (screenshot)
+- automatically kicked of the room
+- save the game
+- Exit the game
+- Erase the livearea screen of SSD
+- Stop capture
+
+
+File : SSD 8
