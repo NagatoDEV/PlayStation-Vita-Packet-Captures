@@ -1,10 +1,24 @@
 # Welcome to the PlayStation Vita/PlayStation TV Packet Capture Archive!
 
-![2021-08-02-085545](https://user-images.githubusercontent.com/67494727/127869135-2891abbd-0ff8-47fb-9b6c-1213cc9e8e1f.png)
+ <p align="center">
+  <img src="https://user-images.githubusercontent.com/67494727/127869135-2891abbd-0ff8-47fb-9b6c-1213cc9e8e1f.png" alt="PlayStation Vita Live Area">
+</p>
+
+
+  <p align="center">
+    <a href="https://twitter.com/NagatoRevenge">
+      <img src="https://img.shields.io/twitter/follow/NagatoRevenge?style=social&logo=twitter"
+         alt="Official Nagato Revenge Twitter"></a>
+   <a href="https://discordapp.com/users/975698824196657182">
+        <img src="https://img.shields.io/badge/My%20Discord-Nagato%230938-5865F2"
+            alt="Official Nagato Discord ID"></a>
+    <a href="https://www.youtube.com/channel/UCXgz1g5ET8Un9gax-nGMjMw">
+        <img src="https://img.shields.io/badge/My%20YouTube%20Channel-Nagato's%20Revenge-ff0000"
+            alt="Official Nagato Revenge YouTube Channel"></a>
 
 As the fabled [PlayStation Vita](https://blog.playstation.com/archive/2011/10/19/playstation-vita-launches-from-22-february-2012/) is now **10 years old** (as I'm currently writing this in 2021), and many of its [services/features](https://www.playstation.com/en-us/support/important-notice/) are now defunct/inoperable, I decided to record information about the internal Vita's network functions. As an avid [preservationist](https://www.youtube.com/watch?v=BppPWh49ROU) and a fanboy to the PlayStation Vita, I decided to analyze multiple Vita titles & network servers in hopes for a server emulation solution in the future. The main purpose of this archive is to **preserve/document** the history of the Vita as this console is obscure in many aspects. This archive will contain various packet captures for many PlayStation Vita titles that support online multiplayer capabilities. 
 
-Special thanks to Taffer for donating some captures to this archive!
+Special thanks to **Taffer** & **Nm223** for donating some captures to this archive!
 
 Moreover, this is a little *side-project* for me as I am currently working on another preservation project called [Destination Home](https://github.com/DestinationHome) which is currently restoring [PlayStation Home's online client](https://youtu.be/D7LQP5SDUjU). 
 
