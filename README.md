@@ -115,15 +115,15 @@ Moreover, this is a little *side-project* for me as I am currently working on an
 # Want to contribute to this archive? Feel free to contact me:
 
 <p align="center">
-<a href="https://discord.com/invite/nhH6vpX">
-  <img align="center" alt="TEAM Nagato width=" width="100px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+<a href="https://discord.com/users/321065968283418642">
+  <img align="center" alt="TEAM Nagato width=" width="100px" src="https://github.com/NagatoDEV/NagatoDEV/blob/main/svg_icons/discord.svg" />
 </a>
 <a href="https://twitter.com/NagatoRevenge">
-  <img align="center" alt="NagatoRevenge | Twitter" width="100px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="center" alt="NagatoRevenge | Twitter" width="100px" src="https://github.com/NagatoDEV/NagatoDEV/blob/main/svg_icons/twitter.svg" />
 </a>
 <a href="https://www.reddit.com/user/Nagato-DEV/">
   <img align="center" alt="NagatoDev | Reddit" width="100px" src="https://seeklogo.com/images/R/reddit-logo-23F13F6A6A-seeklogo.com.png" />
 </a>
 <a href="https://www.youtube.com/channel/UCXgz1g5ET8Un9gax-nGMjMw">
-  <img align="center" alt="NagatoDev | YouTube" width="100px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
+  <img align="center" alt="NagatoDev | YouTube" width="100px" src="https://github.com/NagatoDEV/NagatoDEV/blob/main/svg_icons/youtube.svg" />
 </a>
